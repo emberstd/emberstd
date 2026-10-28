@@ -10,7 +10,7 @@
 ### 📅 [embnany-schedule]
 - **线上地址**：([embnany.pages.dev/schedule](https://embnany.pages.dev/schedule))
 - **技术栈**：`TypeScript` · `CSS`
-- **项目说明**：一个轻量级的行程查询工具，用于快速锁定某个活动的关键词和话题标签。
+- **项目说明**：一个轻量级的明星行程查询工具，用于快速锁定单一活动关键词和话题标签。
 - **开源状态**：🔒 *Private Repository（核心业务逻辑与数据配置私有，仅开放线上体验）*
 
 - ### 🛠️ [toy-userscripts]
